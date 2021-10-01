@@ -15,18 +15,18 @@
 ## Полином
 
 Многочлен (или полином) от n переменных — есть конечная формальная сумма вида
-!(https://dic.academic.ru/pictures/wiki/files/51/3df8c3a2d2083a7dd0d67fd6e4317a73.png)[https://dic.academic.ru/pictures/wiki/files/51/3df8c3a2d2083a7dd0d67fd6e4317a73.png]
+!(Alt text)[image/polinom.png]
 
 где I = (i1,i2,...,in) есть набор из целых неотрицательных чисел (называется мультииндекс), 
 cI — число (называемое «коэффициент многочлена»), зависящее только от мультииндекса I.
 
 В частности, многочлен от одной переменной есть конечная формальная сумма вида
 
-!(https://dic.academic.ru/pictures/wiki/files/55/7cc8c11b734cf66d76010253a10f0c70.png)[https://dic.academic.ru/pictures/wiki/files/55/7cc8c11b734cf66d76010253a10f0c70.png]
+!(Alt text)[image/summa_vida.png]
 
 ## Пункты меню
 
-!(image/menu.png)[image/menu.png]
+!(Alt text)[image/menu.png]
 
 p1 и p2 - полиномы, при старте программы по умолчанию они равны нулю.
 
